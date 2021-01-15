@@ -19,3 +19,6 @@
 
 # Output
 Sorry! You have to be 18 years or above to vote! 🙂
+
+# Other emojicode project
+Also check the Find your emoji Project built with emojicode for LHD Build Daily challenge
